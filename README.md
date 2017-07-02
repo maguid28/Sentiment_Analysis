@@ -1,2 +1,2 @@
 # Sentiment_Analysis
-Sentiment analysis tool used to analyse tweets and guess polarity and subjectivity
+Sentiment analysis tool used to analyse tweets and predict the polarity and subjectivity.
